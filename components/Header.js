@@ -4,37 +4,8 @@ import React from "react";
 const Header = () => {
     return (
         <div>
-            <div id="header">	<div id="top">
-                <div class="container">
-                    <div id="top-links" class="d-md-flex justify-content-between">
-                        <ul class="list-group-horizontal d-flex top-right">
-                            <li class="list-group-item">
-                                <a href="javascript:void(0);">Welcome to TMD travel agency </a>
-                            </li>
-                            <li class="list-group-item">
-                                <form method="post" enctype="multipart/form-data" id="form-language">
-                                    <div class="btn-group">
-                                        <button class="btn btn-link dropdown-toggle rounded-0" data-bs-toggle="dropdown">
-                                            Language : <span class="name"><span class="visible-xs me-1">English</span><i class="fa fa-caret-down"></i></span>
-                                        </button>
-                                        <ul class="dropdown-menu">
-                                            <li><a class="dropdown-item" href="javascript:void(0);">English</a></li>
-                                        </ul>
-                                    </div>
-                                </form>
-                            </li>
+            <div id="header">
 
-                        </ul>
-                        <ul class="list-group-horizonta d-flex top-left">
-                            <li class="list-group-item"><a href="login.html" class="border-0">Login</a>
-                                <a href="register.html">Register</a>
-                            </li>
-                            <li class="list-group-item"><a href="my_account_wishlist.html"><i class="icon_heart"></i>Wishlist</a></li>
-                            <li class="list-group-item"><a href="shoppingcart.html"><i class="icon_cart"></i>Cart</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
 
                 <header>
                     <div class="container">
@@ -101,45 +72,7 @@ const Header = () => {
                                         <li><a href="header4.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Homepage 4</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Travel
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="dropdown-submenu">
-                                            <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Tour</a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="tour-grid-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Tour</a></li>
-                                                <li><a href="tour-detail-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Tour Detail</a></li>
-                                                <li><a href="tour-booking-form.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Tour Booking Form</a></li>
-                                                <li><a href="thank-you.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Thank You</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown-submenu">
-                                            <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Places</a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="place.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Places</a></li>
-                                                <li><a href="place-detail-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Places Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown-submenu">
-                                            <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Flight</a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="flights.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Flight</a></li>
-                                                <li><a href="flight-detail-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Flight Detail</a></li>
-                                                <li><a href="flight-booking-form.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Flight Booking Form</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown-submenu">
-                                            <a href="#"><i class="fa fa-angle-right" aria-hidden="true"></i>Hotel</a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="hotel.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Hotel</a></li>
-                                                <li><a href="hotel-detail-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Hotel Detail</a></li>
-                                                <li><a href="hotel-booking-form.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Hotel Booking Form</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         Packages
@@ -149,57 +82,23 @@ const Header = () => {
                                         <li><a href="package-detail-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Packages Detail</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#">
-                                        GUIDES
-                                    </a>
-                                </li>
 
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Shop
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="shop.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Shop</a></li>
-                                        <li><a href="shopdetail.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Product Detail</a></li>
-                                        <li><a href="shoppingcart.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Shopping Cart</a></li>
-                                        <li><a href="checkout.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Checkout</a></li>
-                                    </ul>
-                                </li>
-                                <li class="nav-item  dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        user
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="login.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Login</a></li>
-                                        <li><a href="register.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Register</a></li>
-                                        <li><a href="my_account_dashboard.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Dashboard</a></li>
-                                        <li><a href="my_account_profile.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Profile</a></li>
-                                        <li><a href="my_account_profile_edit.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Profile Edit</a></li>
-                                        <li><a href="my_account_booking.html"><i class="fa fa-angle-right" aria-hidden="true"></i>My Boooking List</a></li>
-                                        <li><a href="my_account_wishlist.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Wishlist</a></li>
-                                        <li><a href="my_account_setting.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Setting</a></li>
-                                    </ul>
-                                </li>
+
+
                                 <li class="dropdown nav-item"><a href="#" class="nav-link" data-bs-toggle="dropdown">BLOG</a>
                                     <ul class="dropdown-menu">
                                         <li><a href="blog.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog</a></li>
                                         <li><a href="blog-detail.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Post Page</a></li>
                                     </ul>
                                 </li>
-
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        pages
-                                    </a>
+                                <li class="dropdown nav-item"><a href="#" class="nav-link" data-bs-toggle="dropdown">Contact US</a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="gallery.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Gallery</a></li>
-                                        <li><a href="error-404.html"><i class="fa fa-angle-right" aria-hidden="true"></i>404 error Page</a></li>
-                                        <li><a href="faq.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Faq</a></li>
-                                        <li><a href="about.html"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
-                                        <li><a href="contact.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Contact</a></li>
+                                        <li><a href="blog.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog</a></li>
+                                        <li><a href="blog-detail.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Post Page</a></li>
                                     </ul>
                                 </li>
+
+
                             </ul>
                         </div>
                     </div>

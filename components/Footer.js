@@ -40,7 +40,7 @@ const Footer = () => {
                                 <ul class="list-group-horizontal p-0">
                                     <li class="list-group-item"><a href="index.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Home</a></li>
                                     <li class="list-group-item"><a href="login.html"><i class="fa fa-angle-right" aria-hidden="true"></i>My Account</a></li>
-                                    <li class="list-group-item"><a href="about.html"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
+                                    <li class="list-group-item"><a href="/about"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
                                     <li class="list-group-item"><a href="packages.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Packages</a></li>
                                     <li class="list-group-item"><a href="gallery.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Gallery</a></li>
                                     <li class="list-group-item"><a href="tour-grid-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Best Tour</a></li>

@@ -1,4 +1,4 @@
-import "./globals.css";
+import "./style/global.css";
 
 export const metadata = {
   title: "Details on Airport Airlines Terminals Worldwide",
