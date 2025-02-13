@@ -35,7 +35,7 @@ const MiniBlogs = () => {
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum, dolor sit amet luctus phare-tra, turpis lacus rhoncus ipsum...</p>
                                     </div>
                                     <div class="text-center">
-                                        <button type="button" onclick="location.href='blog.html'">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                        <button type="button" onclick="location.href='/blog/blog-details/5'">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                     </div>
                                 </div>
                             </div>
@@ -61,7 +61,7 @@ const MiniBlogs = () => {
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum, dolor sit amet luctus phare-tra, turpis lacus rhoncus ipsum...</p>
                                     </div>
                                     <div class="text-center">
-                                        <button type="button" onclick="location.href='blog.html'">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                        <button type="button" onclick="location.href='/blog/blog-details/5'">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                     </div>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@ const MiniBlogs = () => {
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis elementum, dolor sit amet luctus phare-tra, turpis lacus rhoncus ipsum...</p>
                                     </div>
                                     <div class="text-center">
-                                        <button type="button" onclick="location.href='blog.html'">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                        <button type="button" onclick="location.href='/blog/blog-details/5'">Read More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                     </div>
                                 </div>
                             </div>
