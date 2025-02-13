@@ -6,100 +6,6 @@ const BlogDetails = () => {
             <div class="placetop">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-3">
-                            <div class="left-box">
-                                <h6>SEARCH</h6>
-                                <div class="search">
-                                    <form class="form-horizontal" method="post">
-                                        <fieldset>
-                                            <div class="form-group">
-                                                <input name="s" value="" class="form-control" placeholder="Search Keywords" type="text" />
-                                            </div>
-                                            <div>
-                                                <button type="submit" value="submit" class="btn"><i class="fa fa-search" aria-hidden="true"></i></button>
-                                            </div>
-                                        </fieldset>
-                                    </form>
-                                </div>
-                            </div>
-                            <div class="left-box">
-                                <h6>ABOUT</h6>
-                                <div class="about">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mattis tincidunt orci a bibendum. Nulla pellentesque nisi vitae metus ultricies[...] <a href="about.html">Read More</a></p>
-                                </div>
-                            </div>
-                            <div class="left-box">
-                                <h6>LAST MINUTE DEALS</h6>
-                                <div class="last">
-                                    <ul class="list-unstyled">
-                                        <li>
-                                            <div class="product-thumb">
-                                                <div class="image">
-                                                    <img src="/images/header4/thb1.jpg" class="img-responsive w-100" alt="thb1" title="thb1" />
-                                                    <div class="hoverbox">
-                                                        <div class="icon_plus" aria-hidden="true"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="caption">
-                                                    <h4>ISLAND TOUR</h4>
-                                                    <p>Family Pack <span>$45</span></p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="product-thumb">
-                                                <div class="image">
-                                                    <img src="/images/header4/thb2.jpg" class="img-responsive w-100" alt="thb2" title="thb2" />
-                                                    <div class="hoverbox">
-                                                        <div class="icon_plus" aria-hidden="true"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="caption">
-                                                    <h4>CENTRAL PARK TOUR</h4>
-                                                    <p>Single Person <span>$45</span></p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="product-thumb">
-                                                <div class="image">
-                                                    <img src="/images/header4/thb3.jpg" class="img-responsive w-100" alt="thb3" title="thb3" />
-                                                    <div class="hoverbox">
-                                                        <div class="icon_plus" aria-hidden="true"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="caption">
-                                                    <h4>PARIS TOUR</h4>
-                                                    <p>Couple Pack <span>$950</span></p>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="left-box">
-                                <h6>TALK TO EXPERT</h6>
-                                <div class="talk">
-                                    <ul class="list-unstyled">
-                                        <li>
-                                            <i class="fa-brands fa-skype"></i>
-                                            <h4>CONTACT SKYPE</h4>
-                                            <p>John Doe</p>
-                                        </li>
-                                        <li>
-                                            <i class="fa fa-phone" aria-hidden="true"></i>
-                                            <h4>PHONE</h4>
-                                            <p>+1 (123) 123 12345</p>
-                                        </li>
-                                        <li>
-                                            <i class="fa fa-envelope" aria-hidden="true"></i>
-                                            <h4>EMAIL</h4>
-                                            <p>Johndoe01@gmail.com</p>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
                         <div class="col-sm-9 ourblog">
                             <div id="blog-carousel" class="carousel slide">
                                 <div class="carousel-inner">
@@ -193,13 +99,7 @@ const BlogDetails = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <button class="carousel-control-prev" type="button" data-bs-target="#blog-carousel" data-bs-slide="prev">
-                                    <span>Prev</span>
-                                </button>
-                                <button class="carousel-control-next" type="button" data-bs-target="#blog-carousel" data-bs-slide="next">
-                                    <span>Next</span>
-                                </button>
-                                <div class="clearfix"></div>
+                                
                             </div>
                             <div class="post">
                                 <h1>YOU MIGHT ALSO LIKE THIS POSTS</h1>
@@ -272,52 +172,8 @@ const BlogDetails = () => {
                                 </ul>
                             </div>
 
-                            <div class="clearfix"></div>
 
-                            <div class="comment">
-                                <h3>COMMENTS</h3>
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <div class="img text-center">
-                                            <img src="/images/blog/pic1.png" alt="pic1" title="pic1" class="img-responsive" />
-                                        </div>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the indusrty's standard dummy text ever since the 1500s. <a href="javascript:void(0);">Reply <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
-                                    </li>
-                                    <li>
-                                        <div class="img text-center">
-                                            <img src="/images/blog/pic2.png" alt="pic2" title="pic2" class="img-responsive" />
-                                        </div>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the indusrty's standard dummy text ever since the 1500s. <a href="javascript:void(0);">Reply <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
-                                    </li>
-                                    <li>
-                                        <div class="img text-center">
-                                            <img src="/images/blog/pic1.png" alt="pic1" title="pic1" class="img-responsive" />
-                                        </div>
-                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the indusrty's standard dummy text ever since the 1500s. <a href="javascript:void(0);">Reply <i class="fa fa-angle-double-right" aria-hidden="true"></i></a></p>
-                                    </li>
-                                </ul>
-                                <hr />
-                                <h1>LEAVE A COMMENT</h1>
-                                <p>Your email address will not be published.</p>
-                                <form class="form-horizontal" method="post">
-                                    <fieldset>
-                                        <div class="form-group d-md-flex">
-                                            <div class="col-sm-6">
-                                                <input class="form-control" placeholder="Name (Required)" id="input-name" value="" name="jobname" required="" type="text" />
-                                            </div>
-                                            <div class="col-sm-6">
-                                                <input class="form-control float-end" id="input-email" placeholder="E-mail (Required)" value="" name="email" required="" type="text" />
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <div class="col-sm-12">
-                                                <textarea class="form-control" id="input-enquiry" rows="10" name="enquiry" placeholder="Write your comment here" required=""></textarea>
-                                            </div>
-                                        </div>
-                                        <button type="submit" value="Submit" class="btn btn-primary btnus">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                    </fieldset>
-                                </form>
-                            </div>
+
 
                         </div>
                     </div>
