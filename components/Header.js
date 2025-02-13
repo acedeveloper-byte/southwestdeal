@@ -61,44 +61,14 @@ const Header = () => {
                         </button>
                         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                             <ul class="navbar-nav">
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        home
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">
+                                        HOME
                                     </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="index.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Homepage 1</a></li>
-                                        <li><a href="header2.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Homepage 2</a></li>
-                                        <li><a href="header3.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Homepage 3</a></li>
-                                        <li><a href="header4.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Homepage 4</a></li>
-                                    </ul>
                                 </li>
-
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Packages
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="packages.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Packages</a></li>
-                                        <li><a href="package-detail-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Packages Detail</a></li>
-                                    </ul>
-                                </li>
-
-
-
-                                <li class="dropdown nav-item"><a href="#" class="nav-link" data-bs-toggle="dropdown">BLOG</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="blog.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog</a></li>
-                                        <li><a href="blog-detail.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Post Page</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown nav-item"><a href="#" class="nav-link" data-bs-toggle="dropdown">Contact US</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="blog.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog</a></li>
-                                        <li><a href="blog-detail.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Post Page</a></li>
-                                    </ul>
-                                </li>
-
-
+                                <li class="dropdown nav-item"><a href="/blog" class="nav-link">Blog</a></li>
+                                <li class="dropdown nav-item"><a href="#" class="nav-link">Packages</a></li>
+                                <li class="dropdown nav-item"><a href="#" class="nav-link">Contact US</a></li>
                             </ul>
                         </div>
                     </div>

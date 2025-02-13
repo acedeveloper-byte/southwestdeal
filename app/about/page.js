@@ -13,7 +13,7 @@ const about = () => {
     return (
         <>
             <Header />
-            <div class="about" >
+            <div class="about">
                 <Breadcrumbs main="Home" page="About US" mainlink={"/"} pagelink={"/about"} title={"About Us"} />
                 <section>
                     <div class="bg">

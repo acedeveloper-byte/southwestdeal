@@ -4,7 +4,6 @@ import React from "react"
 const PopularPlaces = () => {
     return (
         <div>
-
             <div class="placetop">
                 <div class="container">
                     <div class="row">

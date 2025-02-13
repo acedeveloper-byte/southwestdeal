@@ -13,6 +13,7 @@ const Footer = () => {
                                 <img src="images/foot-logo.png" class="img-responsive" alt="foot-logo" title="foot-logo" />
                                 <p class="des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam blandit condimen-tum tortor, eget ultricies ante luctus sed. Praesent lobortis scelerisque ipsum sed commodo[...]</p>
                             </div>
+
                             <div class="col-sm-3 contact">
                                 <h3>Contact us</h3>
                                 <ul class="list-group-horizontal p-0">
@@ -35,20 +36,17 @@ const Footer = () => {
                                     </li>
                                 </ul>
                             </div>
+
                             <div class="col-sm-3 info">
                                 <h3>Information</h3>
                                 <ul class="list-group-horizontal p-0">
                                     <li class="list-group-item"><a href="index.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Home</a></li>
-                                    <li class="list-group-item"><a href="login.html"><i class="fa fa-angle-right" aria-hidden="true"></i>My Account</a></li>
                                     <li class="list-group-item"><a href="/about"><i class="fa fa-angle-right" aria-hidden="true"></i>About</a></li>
                                     <li class="list-group-item"><a href="packages.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Packages</a></li>
-                                    <li class="list-group-item"><a href="gallery.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Gallery</a></li>
-                                    <li class="list-group-item"><a href="tour-grid-view.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Best Tour</a></li>
-                                    <li class="list-group-item"><a href="hotel.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Hotels</a></li>
-                                    <li class="list-group-item"><a href="place.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Best Places</a></li>
                                     <li class="list-group-item"><a href="blog.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Blog</a></li>
                                 </ul>
                             </div>
+
                             <div class="col-sm-3 insta">
                                 <h3>Instagram</h3>
                                 <ul class="list-group-horizontal p-0">

@@ -1,9 +1,9 @@
 import "./style/global.css";
 
 export const metadata = {
-  title: "Details on Airport Airlines Terminals Worldwide",
+  title: "Details on Southwestdeal Worldwide",
   description:
-    "AirportAirlinesTerminal, and have a smooth experience at the airport.",
+    "Southwestdeal, and have a smooth experience at the airport.",
 };
 
 
