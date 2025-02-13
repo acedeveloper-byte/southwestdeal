@@ -67,7 +67,7 @@ const Header = () => {
                                     </a>
                                 </li>
                                 <li class="dropdown nav-item"><a href="/blog" class="nav-link">Blog</a></li>
-                                <li class="dropdown nav-item"><a href="#" class="nav-link">Packages</a></li>
+                                <li class="dropdown nav-item"><a href="/packages" class="nav-link">Packages</a></li>
                                 <li class="dropdown nav-item"><a href="#" class="nav-link">Contact US</a></li>
                             </ul>
                         </div>
