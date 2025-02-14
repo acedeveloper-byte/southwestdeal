@@ -584,7 +584,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/01.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/01.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -611,8 +611,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -622,7 +622,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/02.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/02.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -649,8 +649,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -660,7 +660,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/03.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/03.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -687,8 +687,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -698,7 +698,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/01.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/01.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -725,8 +725,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0"> View More </a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -736,7 +736,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/02.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/02.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -763,8 +763,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -774,7 +774,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/03.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/03.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -801,8 +801,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -812,7 +812,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/01.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/01.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -839,8 +839,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button"> <a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -850,7 +850,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/02.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/02.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -877,8 +877,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -888,7 +888,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/03.jp2g" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/03.jpg" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -915,8 +915,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -953,8 +953,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -991,8 +991,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
@@ -1029,8 +1029,8 @@ const Packageslist = () => {
                                                 <p class="des">Lorem ipsum dolor sit amet, consectetur dolor sit amet[...]</p>
                                             </div>
                                             <div class="text-left">
-                                                <button type="button" onclick="location.href='hotel-booking-form.html'">Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
-                                                <button type="button" onclick="location.href='package-detail-view.html'">View More <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" >Book Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+                                                <button type="button" ><a href="/packages/package-details/0">View More</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
                                                 <p>$3100.00</p>
                                             </div>
                                         </div>
