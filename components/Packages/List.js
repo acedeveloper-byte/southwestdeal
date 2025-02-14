@@ -584,7 +584,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/01.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/01.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -622,7 +622,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/02.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/02.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -660,7 +660,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/03.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/03.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -698,7 +698,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/01.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/01.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -736,7 +736,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/02.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/02.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -774,7 +774,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/03.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/03.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -812,7 +812,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/01.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/01.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -850,7 +850,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/02.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/02.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
@@ -888,7 +888,7 @@ const Packageslist = () => {
                                 <div class="product-layout product-grid col-lg-4 col-md-6 col-sm-6 col-xs-12">
                                     <div class="product-thumb">
                                         <div class="image">
-                                            <a href="#"><img src="/images/packages/03.jpg" alt="image" title="image" class="img-responsive" /></a>
+                                            <a href="#"><img src="/images/packages/03.jp2g" alt="image" title="image" class="img-responsive" /></a>
                                             <div class="hoverbox">
                                                 <div class="icon_plus" aria-hidden="true"></div>
                                             </div>
